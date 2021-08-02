@@ -1,3 +1,6 @@
-- 👋 Hi, I’m @gpelincel
-- 👀 I’m interested in game development and web development
-- 🌱 I’m currently learning PHP, MySQL, C#
+Gabriel Pelincel Ramalho
+gabrielpelincel@gmail.com
+
+Web and game dev
+
+HTML, CSS, Js, C#, PHP, MySQL
