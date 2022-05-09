@@ -3,7 +3,7 @@
 <div>
 <h2>Algumas coisas sobre mim</h2>
   
-- <a href="www.gpelincel.github.io/">Meu protifólio 🧑🏽‍🦱</a>
+- <a href="https://gpelincel.github.io">Meu protifólio 🧑🏽‍🦱</a>
 - Sou estudante 👨🏽‍🎓
 - Atualmente estou estudando React Js 🌱
 - Possuo conhecimento em diversas áreas (mobile, games, desktop) mas meu ponto forte é web 👨🏽‍💻
