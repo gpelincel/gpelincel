@@ -12,6 +12,8 @@
 
 [![Gpleincel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gpelincel&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpelincel&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 <h2>Estas são as linguagens e frameworks que eu trabalho</h2>
 <div style="display: inline-block">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="100px" width="100px"/>
