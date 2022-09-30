@@ -5,7 +5,6 @@
   
 - <a href="https://gpelincel.github.io">Meu protifólio 🧑🏽‍🦱</a>
 - Sou estudante 👨🏽‍🎓
-- Atualmente estou estudando React Js 🌱
 - Possuo conhecimento em diversas áreas (mobile, games, desktop) mas meu ponto forte é web 👨🏽‍💻
 - Você pode entrar em contato comigo pelo meu email: gabrielpelincel@gmail.com 📧
 </div>
