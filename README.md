@@ -3,7 +3,7 @@
 <div>
 <h2>Algumas coisas sobre mim</h2>
   
-- <a href="https://gpelincel.github.io">Meu protifólio 🧑🏽‍🦱</a>
+- <a href="http://gabrielpelincel.infinityfreeapp.com">Meu protifólio 🧑🏽‍🦱</a>
 - Sou estudante 👨🏽‍🎓
 - Possuo conhecimento em diversas áreas (mobile, games, desktop) mas meu ponto forte é web 👨🏽‍💻
 - Você pode entrar em contato comigo pelo meu email: gabrielpelincel@gmail.com 📧
