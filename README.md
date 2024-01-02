@@ -1,4 +1,4 @@
-<h1>Olá, eu sou Gabriel Pelincel Ramalho e este é meu perfil <img src="https://media2.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif?cid=ecf05e47zfc813t3f9ia1fxptn9kgrbkw1agj2z11i82ysq2&rid=giphy.gif&ct=g" height="50px" width="50px"></h1>
+<h1>Olá, eu sou o Gabriel! <img src="https://media2.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif?cid=ecf05e47zfc813t3f9ia1fxptn9kgrbkw1agj2z11i82ysq2&rid=giphy.gif&ct=g" height="50px" width="50px"></h1>
 
 <div>
 <h2>Algumas coisas sobre mim</h2>
@@ -15,12 +15,14 @@
 
 <h2>Estas são as linguagens e frameworks que eu trabalho</h2>
 <div style="display: inline-block">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="100px" width="100px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="100px" width="100px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="100px" width="100px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="100px" width="100px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="100px" width="100px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="100px" width="100px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="100px" width="100px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="100px" width="100px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="100px" width="100px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="100px" width="100px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="100px" width="100px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="100px" width="100px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="100px" width="100px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="100px" width="100px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="100px" width="100px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="100px" width="100px"/>
 </div>    
