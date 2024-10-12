@@ -9,7 +9,7 @@
 - Você pode entrar em contato comigo pelo meu email: gabrielpelincel@gmail.com 📧
 </div>
 
-[![gpelincel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gpelincel&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![gpelincel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gpelincel&theme=dracula&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpelincel&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
