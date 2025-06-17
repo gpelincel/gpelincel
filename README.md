@@ -72,9 +72,11 @@ Responsável pelo desenvolvimento de sistemas web e APIs REST usando PHP e Angul
 
 ## 📞 Contato
 
-<p align="center">
-  📱 <strong>Telefone:</strong> +55 (15) 9 9717-5295  
-  📧 <strong>Email:</strong> [gabrielpelincel@gmail.com](mailto:gabrielpelincel@gmail.com)  
-  🔗 <strong>GitHub:</strong> [gpelincel](https://github.com/gpelincel)  
-  🔗 <strong>LinkedIn:</strong> [Gabriel Pelincel](https://www.linkedin.com/in/gabrielpelincel)
-</p>
+<div align="center">
+
+📱 **Telefone:** +55 (15) 9 9717-5295  
+📧 **Email:** <a href="mailto:gabrielpelincel@gmail.com">gabrielpelincel@gmail.com</a>  
+💻 **GitHub:** <a href="https://github.com/gpelincel">gpelincel</a>  
+🔗 **LinkedIn:** <a href="https://www.linkedin.com/in/gabrielpelincel">Gabriel Pelincel</a>
+
+</div>
