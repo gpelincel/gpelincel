@@ -1,28 +1,80 @@
-<h1>Olá, eu sou o Gabriel! <img src="https://media2.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif?cid=ecf05e47zfc813t3f9ia1fxptn9kgrbkw1agj2z11i82ysq2&rid=giphy.gif&ct=g" height="50px" width="50px"></h1>
+<h1 align="center">GABRIEL PELINCEL <br/>
+<small><em>Fullstack Developer</em></small></h1>
 
-<div>
-<h2>Algumas coisas sobre mim</h2>
-  
-- <a href="https://gabrielpelincel.infinityfreeapp.com">Meu protifólio 🧑🏽‍🦱</a>
-- Sou estudante 👨🏽‍🎓
-- Possuo conhecimento em diversas áreas (mobile, games, desktop) mas meu ponto forte é web 👨🏽‍💻
-- Você pode entrar em contato comigo pelo meu email: gabrielpelincel@gmail.com 📧
+## 🧑🏽‍💻 Sobre Mim
+
+Sou desenvolvedor fullstack com experiência em sistemas web e aplicativos mobile.
+
+Atuei na **Global Data** como estagiário e como júnior na **RPV Tecnologia**. Graduado em Desenvolvimento de Sistemas e cursando Engenharia de Computação, me destaco pela **adaptabilidade**, **resolução de problemas** e **trabalho em equipe**.
+
+---
+
+## 🎓 Formação Acadêmica
+
+### Técnico: Desenvolvimento de Sistemas
+
+Aprendi PHP, MySQL, C#, lógica de programação e banco de dados. Foi minha base para o desenvolvimento web e desktop.
+
+### Bacharelado: Engenharia de Computação
+
+Aprofundamento em algoritmos, sistemas embarcados, redes, eletrônica e engenharia de software.
+
+---
+
+## 💼 Experiência Profissional
+
+### Global Data – _Estagiário Desenvolvimento Web_
+
+Atuei como desenvolvedor fullstack em projetos internos de sistemas voltados à saúde pública. Fortaleci meu domínio em PHP e boas práticas técnicas.
+
+### RPV Tecnologia – _Desenvolvedor Fullstack_
+
+Responsável pelo desenvolvimento de sistemas web e APIs REST usando PHP e AngularJS. Foquei em soluções escaláveis, com atenção à experiência do usuário e às demandas do cliente.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### 🔹 Frontend
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40px"/>
+</p>
+
+### 🔹 Backend
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40px"/>
+</p>
+
+### 🔹 Banco de Dados
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40px"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gpelincel&theme=dracula&show_icons=true" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpelincel&layout=compact&theme=dracula" height="150px"/>
 </div>
 
-[![gpelincel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gpelincel&theme=dracula&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpelincel&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+## 📞 Contato
 
-<h2>Estas são as linguagens e frameworks que eu trabalho</h2>
-<div style="display: inline-block">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="100px" width="100px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="100px" width="100px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="100px" width="100px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="100px" width="100px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="100px" width="100px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="100px" width="100px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="100px" width="100px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="100px" width="100px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="100px" width="100px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="100px" width="100px"/>
-</div>    
+<p align="center">
+  📱 <strong>Telefone:</strong> +55 (15) 9 9717-5295  
+  📧 <strong>Email:</strong> [gabrielpelincel@gmail.com](mailto:gabrielpelincel@gmail.com)  
+  🔗 <strong>GitHub:</strong> [gpelincel](https://github.com/gpelincel)  
+  🔗 <strong>LinkedIn:</strong> [Gabriel Pelincel](https://www.linkedin.com/in/gabrielpelincel)
+</p>
